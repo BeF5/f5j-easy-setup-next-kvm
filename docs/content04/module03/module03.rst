@@ -5,7 +5,7 @@ BIG-IP Next VE KVMのネットワーク設定
 
  
 .. image:: images/Picture1.png
-   :scale: 20%
+   :scale: 90%
    :align: center
 |
 
@@ -15,7 +15,7 @@ BIG-IP Next VE KVMのネットワーク設定
 
  
 .. image:: images/Picture2.png
-   :scale: 20%
+   :scale: 90%
    :align: center
 |
 

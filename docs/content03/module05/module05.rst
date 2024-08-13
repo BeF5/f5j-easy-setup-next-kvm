@@ -44,7 +44,7 @@ kubectlコマンドを使用してCMのコアサービスとIPアドレスの確
 
 
 .. image:: images/Picture4.png
-   :scale: 70%
+   :scale: 90%
    :align: center
 |
 

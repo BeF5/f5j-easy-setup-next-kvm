@@ -12,7 +12,7 @@ BIG-IP Next VE KVMのイメージ作成
 
  
 .. image:: images/Picture1.png
-   :scale: 20%
+   :scale: 90%
    :align: center
 |
 
@@ -26,7 +26,7 @@ cpコマンドで新規イメージを作成します。
 
 
 .. image:: images/Picture2.png
-   :scale: 20%
+   :scale: 90%
    :align: center
 |
 
@@ -42,6 +42,6 @@ cloud-localdsというツールをインストールして事前に作成したn
         cloud-localds my-bigip-next.iso -H my-bigip-next -N network.yaml -m local /dev/null
 
 .. image:: images/Picture3.png
-   :scale: 20%
+   :scale: 90%
    :align: center
 |

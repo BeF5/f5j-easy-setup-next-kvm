@@ -6,7 +6,7 @@ BIG-IP Next Central Manager KVMのコンソール
 
  
 .. image:: images/Picture1.png
-   :scale: 20%
+   :scale: 90%
    :align: center
 |
 

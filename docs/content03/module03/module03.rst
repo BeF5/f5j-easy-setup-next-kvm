@@ -15,7 +15,7 @@ virsh console <id> でコンソールに入ってadmin/adminのユーザネー�
 
  
 .. image:: images/Picture1.png
-   :scale: 20%
+   :scale: 90%
    :align: center
 |
 

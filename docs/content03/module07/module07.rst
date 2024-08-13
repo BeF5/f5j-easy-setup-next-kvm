@@ -88,7 +88,7 @@ CMのCLIにてkubectlコマンドでpodの起動状態の確認も可能です�
 システム >> CM Maintenanceをクリックして、Setup画面をクリックすると、Bootstrap Statusが完了と表示されます。
 
 .. image:: images/Picture10.png
-   :scale: 80%
+   :scale: 90%
    :align: center
 |
 
