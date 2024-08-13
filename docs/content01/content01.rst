@@ -5,7 +5,9 @@ BIG-IP Next KVM 環境概要
 
 BIG IP Nextの概要を学習したい場合は、以下のビデオをご覧ください。
 
-https://www.youtube.com/watch?v=9ExJiL64m1M
+.. image:: images/Picture1.png
+    :alt: What is BIG-IP Next?
+    :target: https://www.youtube.com/watch?v=9ExJiL64m1M
 
 
 .. toctree::
