@@ -3,7 +3,7 @@
    contain the root `toctree` directive.
 
 
-F5 BIG-IP Next KVM v20.2.1 セットアップガイド
+F5 BIG-IP Next KVM v20.2.1 かんたんセットアップガイド
 ==============================================
 最終更新日: 2024年8月13日
 
