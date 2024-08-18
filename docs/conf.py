@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Next KVM セットアップガイド'
+project = 'Next KVM かんたんセットアップガイド'
 copyright = '2024, F5ネットワークスジャパン合同会社'
 author = 'F5ネットワークスジャパン合同会社'
 
